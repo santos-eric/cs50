@@ -1,1 +1,1 @@
-# cs50
+Harvard CS50's Web Programming Course
